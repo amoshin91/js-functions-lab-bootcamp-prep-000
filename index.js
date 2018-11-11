@@ -5,6 +5,7 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo(name) {
+  const name 
   return "Happy holidays, ${name}!"
 }
 
